@@ -1,7 +1,23 @@
 # Git Cheat Sheet
+## 🛠️ Installation
+```shell
+$ apt-get install git          # Debian/Ubuntu
+
+$ yum install git              #CentOS, Fedora, or RHEL, 
+
+https://git-scm.com
+
+```
+
+
+## Git Configuration
+```shell
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git config --global color.ui auto
+```
 
 ## Initial Setup
-
 
 ### [Initialize a repo](https://www.kernel.org/pub/software/scm/git/docs/git-init.html)
 
